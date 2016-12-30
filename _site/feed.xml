@@ -5,17 +5,18 @@
     <description>This is a Personal Home Page of Mehraan Baratian ( Hardware Engneering at Shiraz University )&lt;br&gt; &lt;a href=&#39;http://cse.shirazu.ac.ir&#39;&gt;CSE Department of Shiraz University &lt;/a&gt;</description>
     <link>http://mehraanbr31.github.io/</link>
     <atom:link href="http://mehraanbr31.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Dec 2016 20:00:44 +0330</pubDate>
-    <lastBuildDate>Fri, 30 Dec 2016 20:00:44 +0330</lastBuildDate>
+    <pubDate>Fri, 30 Dec 2016 20:54:46 +0330</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2016 20:54:46 +0330</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>About</title>
-        <description>&lt;p&gt;My name is Mehraan baratian and I was born in Shahin Shahr,Esfahan,Iran.
+        <description>&lt;p&gt;&lt;img src=&quot;Public/img/10.jpg&quot; alt=&quot;Mehraan Baratian&quot; /&gt; &lt;br /&gt;
+My name is Mehraan baratian and I was born in Shahin Shahr,Esfahan,Iran.
 I’ve studied High school’s lessons at Isfahan University of Technology.
 And now I’m studying Hardware Engneering at shiraz University.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;Public/cv.pdf&quot;&gt;Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;Public/cv.pdf&quot;&gt;Curriculum Vitae &lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Dec 2016 18:18:24 +0330</pubDate>
         <link>http://mehraanbr31.github.io/2016/12/30/welcome-to-jekyll.html</link>
