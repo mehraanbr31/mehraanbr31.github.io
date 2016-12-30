@@ -11,7 +11,7 @@ email: mehraanbr.31@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a Personal Home Page of Mehraan Baratian ( Hardware Engneering at Shiraz University )
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "mehraanbr31.github.io" # the base hostname & protocol for your site
 twitter_username: mehraanbr.31
 github_username:  mehraanbr31
 
